@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Scraper</title>
+    <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">Job Scraper</h1>
+        <h2 class="subtitle">Easing your job search with AI-powered automation.</h2>
+        <p class="description">This process may take 10-15 seconds. Please do not spam the button. Be patient and let the magic happen! </p>
+        
+        <button id="extract-job" class="btn">Extract Job</button>
+        <button id="view-jobs" class="btn secondary">View Saved Jobs</button>
+        <button id="add-user" class="btn tertiary">Add User Credentials</button>
+
+        
+        <div id="loading" class="loading-spinner"></div>
+        
+        <p id="status-message" class="status-message"></p>
+
+        <p class="powered-by">Powered by <b>Gemini-2.0-Flash-Lite</b>, <b>Google Places API</b>, and <b>Supabase</b></p>
+    </div>
+    <script src="popup.js"></script>
+</body>
+</html>

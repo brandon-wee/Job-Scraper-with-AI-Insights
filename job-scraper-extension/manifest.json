@@ -1,0 +1,19 @@
+{
+    "permissions": ["activeTab", "scripting", "identity", "identity.email"],
+    "name": "Job Scraper & AI Job Insights",
+    "description": "This extension will help you to search for jobs",
+    "version": "1.0",
+    "manifest_version": 3,
+    "host_permissions": ["<insert your own API link>*", "https://www.linkedin.com/jobs/*"],
+    "action": {
+        "default_popup": "extension.html"
+    },
+    "background": {
+        "service_worker": "background.js"
+    },
+    "oauth2": {
+        "client_id": "<insert your oauth2 client id>",
+        "scopes": ["openid", "email", "profile"]
+    }
+    
+  }

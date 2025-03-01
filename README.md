@@ -93,6 +93,7 @@ The Flask API Backend, built with Python, serves as the communication bridge bet
 - Implements Retrieval Augmented Generation (RAG) for skill recommendations using FAISS and OpenAI embeddings
 - Ensures secure authentication and API request handling
 - Uses NLTK and scikit-learn to preprocess for TF-IDF calculations
+- Makes use of Google Places API to obtain exact coordinates and addresses of company offices to enrich the metadata
 
 ### Technology Stack:
 - Python, Flask, PostgreSQL, Gemini-2.0-Flash and Flash-Lite, OpenAI Embeddings, Hugging Face Interactive API, NLTK, scikit-learn, FAISS, TF-IDF
