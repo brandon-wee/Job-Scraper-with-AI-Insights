@@ -89,6 +89,7 @@ The Flask API Backend, built with Python, serves as the communication bridge bet
 - Generates cover letters using Gemini-2.0-Flash and stored job listing details
 - Implements Retrieval Augmented Generation (RAG) for skill recommendations using FAISS and OpenAI embeddings
 - Ensures secure authentication and API request handling
+- Uses NLTK and scikit-learn to preprocess for TF-IDF calculations
 
 ### Technology Stack:
 - Python, Flask, PostgreSQL, Gemini-2.0-Flash and Flash-Lite, OpenAI Embeddings, Hugging Face Interactive API, NLTK, scikit-learn, FAISS, TF-IDF
