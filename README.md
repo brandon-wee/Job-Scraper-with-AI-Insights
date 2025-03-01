@@ -13,7 +13,7 @@ The Chrome Extension was created using vanilla HTML, CSS, and JS, alongside addi
 The Chrome Extension has also been configured to launch the Streamlit dashboard and record the user's obfuscated user ID. 
 You can find the Chrome Extension in this link (insert link here), or clone the path `/job-scraper-extension` and configure it using your own OAuth2 credentials from the Google Cloud Platform.
 
-![Chrome Extension Screenshot](images/chrome-extension.png)
+![Chrome Extension Screenshot](./images/chrome-extension.png)
 
 ### Usage:
 - To use the Chrome Extension, you must first enable sync in `chrome://settings`
