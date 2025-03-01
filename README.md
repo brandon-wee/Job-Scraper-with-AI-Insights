@@ -100,6 +100,12 @@ The Flask API Backend, built with Python, serves as the communication bridge bet
 
 ---
 
+## Access the Chrome Extension from the Chrome Web Store
+
+[Download the Chrome Extension from the Web Store](https://chromewebstore.google.com/detail/job-scraper-ai-job-insigh/iokghhidcadcbipnfklpkeopgimligoi?authuser=0&hl=en)
+
+---
+
 ## Manual Installation & Setup
 
 ### Prerequisites:
