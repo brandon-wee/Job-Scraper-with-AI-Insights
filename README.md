@@ -74,7 +74,7 @@ The PostgreSQL database is deployed on Supabase and designed as a **normalized r
 
 You do not have access to the deployed database, but you can recreate it using the following **ER diagram**.
 
-(insert picture of Database Schema)
+![Database Schema Screenshot](https://github.com/brandon-wee/Job-Scraper-with-AI-Insights/blob/main/images/database_schema.png)
 
 ### Technology Stack:
 - SQL, PostgreSQL, Supabase
