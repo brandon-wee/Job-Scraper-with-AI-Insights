@@ -45,7 +45,10 @@ The Streamlit Dashboard also includes a **Geospatial Visualizer**, displaying jo
 
 You can launch your dashboard from the extension, or clone the path `/job-scraper-dashboard` and configure it using your own Supabase credentials, hash secrets, and Flask API calls.
 
-(insert picture of Streamlit Dashboard)
+![Home Page Screenshot](https://github.com/brandon-wee/Job-Scraper-with-AI-Insights/blob/main/images/dashboard_1.png)
+![View Listings Page Screenshot](https://github.com/brandon-wee/Job-Scraper-with-AI-Insights/blob/main/images/dashboard_2.png)
+![Resume Analysis Page Screenshot](https://github.com/brandon-wee/Job-Scraper-with-AI-Insights/blob/main/images/dashboard_3.png)
+![Geospatial Visualization Page Screenshot](https://github.com/brandon-wee/Job-Scraper-with-AI-Insights/blob/main/images/dashboard_4.png)
 
 ### Usage:
 - Launch the dashboard by pressing **"View Saved Jobs"** in the Chrome Extension.
