@@ -1,5 +1,7 @@
 # Job-Scraper-with-AI-Insights
 
+Note: The chrome extension is currently down due to deployment costs! I am broke.
+
 This repository contains all of the components of the Job Scraper with AI Insights project. Here are the contents of this README:
 
 1. Chrome Extension
